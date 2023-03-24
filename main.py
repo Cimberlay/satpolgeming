@@ -65,7 +65,7 @@ logging.basicConfig(level=logging.INFO)
 
 async def main():
     await load()
-    await bot.start("MTA1OTE2MTY4OTUxOTU2Mjc1Mg.Gf_mvX.9E0ganqY-5TrZpsfOmxBw4TmBJOCxU1Cz28ZGw")
+    await bot.start("")
 
 
 asyncio.run(main())
